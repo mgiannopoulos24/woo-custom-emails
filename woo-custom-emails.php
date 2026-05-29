@@ -13,6 +13,8 @@
  * Requires Plugins: woocommerce
  * WC requires at least: 8.0
  * WC tested up to: 10.5
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  *
  * Text Domain: woo-custom-emails
  *
